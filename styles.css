@@ -246,6 +246,7 @@ ul li {
     justify-content: flex-start;
     padding: 20px;
     float: left;
+    margin-left: 11px;
 }
 
 .profile {
